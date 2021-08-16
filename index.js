@@ -1,2 +1,10 @@
 
 // Write your code here
+const num1 = 2
+const num2 = 31
+const multiply = num1 * num2
+const random = Math.floor(Math.random() * 100) + 1 //math random is a float between 0 and 1. multiply by 10 and round down with math floor to get a random integer
+const num3 = 10
+const num4 = 6
+const mod = num3 % num4
+const max = Math.max(1,2,3,4,20)
